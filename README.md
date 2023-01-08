@@ -9,6 +9,7 @@ create a website demo
 [https://jekyllrb.com/docs/themes/]
 
 2. Fancy options:
+[https://jekyllrb.com/docs/themes]
 
 ## Embed a video
 
@@ -17,3 +18,4 @@ create a website demo
 ## Insert an image
 
 ## Markdown guide
+[https://www.markdownguide.org/cheat-sheet/]

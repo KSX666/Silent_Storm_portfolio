@@ -20,8 +20,7 @@ create a website demo
 
 
 ## Insert an image
-[Image text]!
-(https://github.com/KSX666/Silent_Storm_portfolio/blob/main/1.jpg?raw=true)
+![alt text](1.jpg)
 
 ## Markdown guide
 [https://www.markdownguide.org/cheat-sheet/]

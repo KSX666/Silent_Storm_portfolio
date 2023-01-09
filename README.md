@@ -4,7 +4,7 @@ create a website demo
 <hr>
 
 ## Find your theme
-~~The world is flat.~~
+
 1. Basic options:
 [https://pages.github.com/themes]
 

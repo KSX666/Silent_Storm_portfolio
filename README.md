@@ -24,3 +24,4 @@ create a website demo
 
 ## Markdown guide
 [https://www.markdownguide.org/cheat-sheet/]
+That is so funny! :joy:

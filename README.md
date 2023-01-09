@@ -20,6 +20,7 @@ create a website demo
 
 
 ## Insert an image
+!(https://github.com/KSX666/Silent_Storm_portfolio/blob/main/1.jpg?raw=true)
 
 ## Markdown guide
 [https://www.markdownguide.org/cheat-sheet/]
